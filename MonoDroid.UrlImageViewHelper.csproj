@@ -54,5 +54,6 @@
     <Compile Include="Hashset.cs" />
     <Compile Include="ExtensionMethods.cs" />
     <Compile Include="RoundedImage.cs" />
+    <Compile Include="test.cs" />
   </ItemGroup>
 </Project>
